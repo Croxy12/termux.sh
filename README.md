@@ -12,14 +12,14 @@ ____________________________
  Not :vürüsü silmenin tek yolu cihaza format atmaktır.
 vürüsü aktifleştirmek için
 _____________
-pkg git git
+pkg install git
 ______________
 git klon https://github.com/termuxhackt/termux.sh/new/main
-__________________________________&__________________________
+_____________________________________________________________
 ls
 ______________________________________________
 cd termux.sh
-____&__&&__________
+______________
 ls
 _______________
 chmod +x *
